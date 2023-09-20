@@ -1,0 +1,84 @@
+NFT games: What are they and how do they work
+Introduction
+The scramble for NFTs had all digital creators in a frenzy trying to get a piece of the NFT loot.
+Artists of all kinds set to work; renowned painters digitized some of their best works as
+expensive NFTs, even rapper Snoop Dogg released his NFT collection “A Journey with the
+Dogg.”
+While the entertainment industry was buzzin with NFTs, the video game industry was similarly
+far from slumber. The gaming industry for long had sought a way to bridge the gap between the
+virtual and real world, and NFTs are the perfect solution. GameFi, is the chosen term to refer to
+blockchain games characterized by financial incentives, simply coined from Video games +
+Decentralized Finance (GameFi). This combination has brought dreams to reality as your video
+game expertise can now directly earn you a living.
+With some game NFTs costing up to $1.1m, like the Mystic Axie, a character on Axie Infinity or
+pale purple kitty, a character on Cryptokitties which cost $1.3m, it’s no surprise that gamers are
+trooping into the space for the chance of a big cash out, and sources claim this is just the
+beginning.
+What exactly is an NFT Game?
+An NFT game is simply any video game that is centered around the acquisition of digital assets
+to be exchanged or traded for profit. These games apply the mechanism of blockchain in their
+core function as secure ownership and exchange of digital assets is only possible with the use of
+smart contracts. Sometimes these games function with multiple smart contracts, like
+Cryptokitties, a pioneer NFT game which contributed to popularizing Ethereum’s ERC721
+standard. This game makes use of 4 main smart contracts, all serving different functions to
+ensure rarity and security of its assets.
+The difference between NFT games and Traditional games?
+You just earned a sword that kills enemies with one blow. Can you make money off this sword
+by trading it in a marketplace? If no, then you’re playing a traditional game. This is the major
+difference between traditional and NFT games—real world financial incentives.
+Additionally, NFT games have a decentralized nature, they make use of the blockchain
+technology to put control of the game’s future in the hands of the players. Players decide key
+changes and updates to the game using governance tokens. The more tokens you have, the higher
+your voting power. Lastly, blockchain games are fairly complex as they require some knowledge
+of crypto and blockchain before diving in. Games running on the Ethereum blockchain would
+require players to buy some ETH for use in-game, likewise games built on the Binance Smart
+Chain or Solana blockchain would require players having some BNB or SOL.
+How can you earn from NFT games?
+If you’re an avid gamer looking for a way to boost your crypto portfolio then NFT games could
+be a viable option for you. Play-to-earn crypto games reward gamers with in-game currency or
+tokens for dedicating long hours to gaming. Tokens can be earned in various ways, completing
+game quests, winning battles, crafting items for sale, etc. These earned tokens can then be
+exchanged for major tokens like Bitcoin, BNB or other tokens.
+Best NFT game marketplaces
+NFT marketplaces are decentralized applications built for the purpose of buying and selling
+digital assets. Deciding a suitable marketplace will involve a few considerations like what
+blockchain and cryptocurrency will be used, fees, and what type of assets are sold.
+Opensea – The most popular NFT marketplace of all as it allows for a wide range of
+digital assets to be sold on its platform. Opensea is also a host to popular NFT games like
+CryptoKitties, and Cryptopunks.
+Pros – Free listing, user friendly platform great for newbies, and offers a wide range
+of digital assets. Supports Ethereum (ETH/WETH), SOL, USDC, and DAI.
+Axie Marketplace – As you must have guessed, this is a marketplace dedicated to the
+video game, Axie Infinity. On this marketplace users can purchase all assets from the
+video game such as Axies, virtual lands and other craft items.
+Pros – A one-stop shop for all things Axie. Supports Axie Infinity tokens, Axie
+Shards.
+Rarible – An upcoming NFT marketplace built on the Ethereum blockchain. Rarible just
+like Opensea is host to a wide range of digital assets. Its user-friendly platform allows
+newbies to create and mint NFTs without any special skills. Rarible is home to a few
+games like MyCryptoHeroes, Wizards & Dragons, and CryptoMans.
+Pros – Easy to use interface, a wide variety of digital assets. Supports Rarible
+governance token, RARI.
+Popular NFT games
+Axie Infinity – One of the first on scene, launched in 2018, Axie infinity is an NFT game
+by Mavis studio. Its concept is simple; catch the mythical creatures (Axies) and train
+them to fight other player’s Axies. The game has a story mode and versus mode, both can
+earn you its native token Axie Shards.
+Decentraland – The NFT real estate game launched in 2015. Decentraland is a virtual
+reality (VR) game running on the Ethereum blockchain. The idea is based on exploring
+and buying all kinds of properties. Players can own anything from playgrounds to movie
+cinemas. Allowing other users explore and possibly purchase their establishments. Its
+native token MANA doubles as a governance token, aiding users vote on its future.
+Gods Unchained – An NFT card game involving immense strategies. Launched in 2021,
+God’s unchained is a card game similar to the Elder Scrolls world. Built on the Ethereum
+blockchain its main asset, playing cards are non-fungible tokens. Which can be traded
+and exchanged for major cryptos like BNB. The platform recently announced it will be
+issuing a governance token, $GODS token.
+Conclusion
+Although NFT gaming is relatively new, the GameFi space seems to be rapidly gaining traction.
+This could be based on its addictive nature—play video games and earn at the same time? That’s
+every millennial’s dream. The psychology of its addictive nature is rooted in its gameplay.
+Players who jump on board the game with freebies get destroyed by paying players, forcing them
+to either pay for an upgrade or abandon the game entirely. But at least with NFT games when
+you get tired of them it doesn’t translate to wasted efforts; users have the option of selling their
+items at the end of play.
