@@ -44,6 +44,16 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		829584BE2ABB633E00E4B0DF /* testText */ = {
+			isa = PBXGroup;
+			children = (
+				82E6D16D29F834E2007E53A9 /* input1.txt */,
+				828742162A121F1700D8EE2F /* input2.txt */,
+				828742172A121F1700D8EE2F /* input3.txt */,
+			);
+			path = testText;
+			sourceTree = "<group>";
+		};
 		82E6D15729F82523007E53A9 = {
 			isa = PBXGroup;
 			children = (
@@ -66,9 +76,7 @@
 				82E6D16329F82523007E53A9 /* main.cpp */,
 				82E6D16A29F82547007E53A9 /* hash.cpp */,
 				82E6D16B29F82547007E53A9 /* hash.hpp */,
-				82E6D16D29F834E2007E53A9 /* input1.txt */,
-				828742162A121F1700D8EE2F /* input2.txt */,
-				828742172A121F1700D8EE2F /* input3.txt */,
+				829584BE2ABB633E00E4B0DF /* testText */,
 			);
 			path = Lab_9;
 			sourceTree = "<group>";
